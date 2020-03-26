@@ -1,0 +1,166 @@
+body{
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+    margin: 0;
+    background-color: beige;
+}
+#countainer{
+    width: 100%;
+    height: 100%;
+    margin-bottom: -20px;
+    background-color: beige;
+
+}
+
+
+.Mainmenu a{
+    color: brown;
+    width: 100%;
+    margin: 10px;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+   text-decoration: none;
+   font-family: 'Dancing Script', cursive;
+   
+   
+    
+}.Mainmenu{
+    margin: middle;
+    text-align: center;
+    height: 10px;
+    margin-top: -40px;
+}
+
+.garis{
+    background-color: rgb(150, 75,0);
+    height: 10px;
+
+}
+.judul{
+    width: 100%;
+    height: 100px;
+}
+
+.backjudul h1{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 0px;
+}
+.grow{
+    display: inline-block;
+}
+h1{
+    color: brown;
+    margin-top: -30px;
+    padding-bottom: 20px;
+}
+.grow:hover{
+    -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+.content{
+        background-color: beige;
+        width: 100%;
+        height: 500%;
+        resize: both;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        margin-top: 50px;
+}
+.judul p{
+    color: rgb(150, 75,0);
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+    position: absolute;
+    left: 40%;
+    top: 10%;
+}
+.gambarInstagram{
+    position: absolute;
+    top: 30%;
+    left: 27%;
+    background-color: wheat;
+    border: 5px solid rgb(150, 75,0);
+    padding-right: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+}
+.gambarInstagram h1{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+.gambarLine{
+    position: absolute;
+    top: 65%;
+    left: 5%;
+    background-color: wheat;
+    border: 5px solid rgb(150, 75,0);
+    padding-right: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+}
+.gambarLine h1{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+.gambarMail{
+    position: absolute;
+    top: 65%;
+    right: 5%;
+    background-color: wheat;
+    border: 5px solid rgb(150, 75,0);
+    padding-right: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+}
+.gambarMail h1{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+.gambarPhone{
+    position: absolute;
+    top: 100%;
+    left: 27%;
+    background-color: wheat;
+    border: 5px solid rgb(150, 75,0);
+    padding-right: 400px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+}
+.gambarPhone h1{
+    position: absolute;
+    top: 120px;
+    left: 250px;
+    color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+}
+.gambar{
+    width: 200px;
+    height: 200px;
+}
+
